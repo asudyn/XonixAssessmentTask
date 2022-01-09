@@ -1,5 +1,9 @@
 # Xonix assessment task
 
+**The game is intended to played in a game view size 648x400 pixels**, this way the pixels look best.
+
+![Alt Text](https://raw.githubusercontent.com/asudyn/XonixAssessmentTask/main/size.png)
+
 Implemented all main mechanics of Xonix in a Unity game.
 
 This is the best I could make in a given time. The code is not as clean and optimized as I'd want, but the game is playable and all the features and key points are implemented.
@@ -13,7 +17,6 @@ Player's and enemies' speed can be set in their respective prefabs.
 Also figured out how to fix this edge case:
 
 ![Alt Text](https://raw.githubusercontent.com/asudyn/XonixAssessmentTask/main/original.gif)
-
 
 
 
