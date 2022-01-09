@@ -10,6 +10,13 @@ Color of the field and the line you draw on it can be configured in Field object
 
 Player's and enemies' speed can be set in their respective prefabs.
 
+Also figured out how to fix this edge case:
+
+![Alt Text](https://https://raw.githubusercontent.com/asudyn/XonixAssessmentTask/main/original.gif)
+
+
+
+
 ## Original task:
 
 The main idea is to develop the mechanic of the game Xonix.
