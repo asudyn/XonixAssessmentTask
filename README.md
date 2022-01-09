@@ -1,6 +1,6 @@
 # Xonix assessment task
 
-**The game is intended to played in a game view size 648x400 pixels**, this way the pixels look best.
+**The game is intended to be played with a game view size 648x400 pixels**, this way the pixels look crisper.
 
 ![Alt Text](https://raw.githubusercontent.com/asudyn/XonixAssessmentTask/main/size.png)
 
