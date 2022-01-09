@@ -12,7 +12,7 @@ Player's and enemies' speed can be set in their respective prefabs.
 
 Also figured out how to fix this edge case:
 
-![Alt Text](https://https://raw.githubusercontent.com/asudyn/XonixAssessmentTask/main/original.gif)
+![Alt Text](https://raw.githubusercontent.com/asudyn/XonixAssessmentTask/main/original.gif)
 
 
 
