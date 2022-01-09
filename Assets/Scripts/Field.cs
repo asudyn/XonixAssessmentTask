@@ -202,7 +202,7 @@ public class Field:MonoBehaviour {
     /// <param name="start"></param>
     /// <param name="step"></param>
     /// <returns></returns>
-    private bool TestAreaForEnemies(Vector2Int start,int step = 8) {
+    private bool TestAreaForEnemies(Vector2Int start,int step = 4) {
         Color32 startColor = GetPixel(start);
         Queue<Vector2Int> queue = new Queue<Vector2Int>();
         HashSet<int> checkedIndices = new HashSet<int>(); //To keep indices checked pixels so we'll only check them once
