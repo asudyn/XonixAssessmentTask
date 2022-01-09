@@ -2,6 +2,14 @@
 
 Implemented all main mechanics of Xonix in a Unity game.
 
+This is the best I could make in a given time. The code is not as clean and optimized as I'd want, but the game is playable and all the features and key points are implemented.
+
+Number of lives, enemies and percentage of field needed to capture for the victory can be set in the GameManager.
+
+Color of the field and the line you draw on it can be configured in Field object.
+
+Player's and enemies' speed can be set in their respective prefabs.
+
 ## Original task:
 
 The main idea is to develop the mechanic of the game Xonix.

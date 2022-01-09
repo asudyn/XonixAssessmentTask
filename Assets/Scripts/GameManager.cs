@@ -6,6 +6,7 @@ public class GameManager : MonoBehaviour
 {
 	protected static GameManager _instance;
 
+    [Header("Game settings")]
     [SerializeField]
     private int initialLives = 3;
     [SerializeField]
@@ -16,7 +17,7 @@ public class GameManager : MonoBehaviour
     private int winPercentage = 70;
 
 
-    [Space(10)]
+    [Header("References")]
     [SerializeField]
     private Field field;
 
